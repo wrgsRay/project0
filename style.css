@@ -17,4 +17,12 @@ div {
   font-size: 16pt;
 }
 
+#box {
+  background-color: aliceblue;
+}
+
+.container {
+  display: flex;
+}
+
 /*# sourceMappingURL=style.css.map */

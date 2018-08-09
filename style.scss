@@ -18,3 +18,9 @@ div {
   @extend .description;
   font-size: 16pt;
 }
+#box{
+  background-color: aliceblue;
+}
+.container{
+  display: flex;
+}
