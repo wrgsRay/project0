@@ -13,3 +13,7 @@ div {
 .description{
   color: dodgerblue;
 }
+.sub-description{
+  @extend .description;
+  font-size: 16pt;
+}

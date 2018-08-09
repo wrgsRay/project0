@@ -9,8 +9,12 @@ div {
   padding: 20px 20px 20px 20px;
 }
 
-.description {
+.description, .sub-description {
   color: dodgerblue;
+}
+
+.sub-description {
+  font-size: 16pt;
 }
 
 /*# sourceMappingURL=style.css.map */
